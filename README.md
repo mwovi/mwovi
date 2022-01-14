@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Peter Mwovi</h1>
 <h3 align="center">A Software developer. <img src="https://image.flaticon.com/icons/svg/630/630611.svg" width="14"/> </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agesa3" alt="peter mwovi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mwovi" alt="peter mwovi" /> </p>
 
 - 🔭 I’m currently working on [Node js](https://nodejs.org/en/)  and [React js](https://reactjs.org/) 
 - 👯 Looking forward to collaborate on fun projects
