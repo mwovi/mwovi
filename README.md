@@ -2,10 +2,10 @@
 <h3 align="center">A Software QA Engineer passionate about clean, scalable systems and user-centered solutions 👨🏽‍💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwovi" alt="peter mwovi" /> </p>
 
-- 🔍 Currently working as a **QA Engineer*.
+- 🔍 Currently working as a **QA Engineer**.
 - 🛠️ Building [Sheria Mtaani](https://github.com/petermwovi) — A legaltech startup for easier access to justice
 - 👨🏽‍💻 I work with **Cypress**, **Playwright**, **Postman**, **Node.js**, and **React**
-- 📚 Currently learning **OpenMRS development** and exploring **cybersecurity**
+- 📚 Currently learning and exploring **cybersecurity**
 - 🤝 Always open to collaborating on purpose-driven or community-based projects
 - 📫 Reach me via:
 <p align="center"> 
