@@ -4,7 +4,7 @@
 
 - 🔍 Currently working as a **QA Engineer**.
 - 🛠️ Building [Sheria Mtaani](https://github.com/petermwovi) — A legaltech startup for easier access to justice
-- 👨🏽‍💻 I work with **Cypress**, **Playwright**, **Postman**, **Node.js**, and **React**
+- 👨🏽‍💻 I work with **Cypress**, **Selenium**, **Playwright**, **Apium**, **Postman**, **Node.js**, and **React**
 - 📚 Currently learning and exploring **cybersecurity**
 - 🤝 Always open to collaborating on purpose-driven or community-based projects
 - 📫 Reach me via:
