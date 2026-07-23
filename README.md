@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mwovi" alt="peter mwovi" /> </p>
 
 - 🔍 Currently working as a **QA Engineer**.
-- 🛠️ Building [Sheria Mtaani](https://github.com/petermwovi) — A legaltech startup for easier access to justice
+- 🛠️ Building [Itika](https://itika.up.railway.app/) — A done-for-you service that answers a business's WhatsApp instantly, 24/7
 - 👨🏽‍💻 I work with **Cypress**, **Selenium**, **Playwright**, **Apium**, **Postman**, **Node.js**, and **React**
 - 📚 Currently learning and exploring **cybersecurity**
 - 🤝 Always open to collaborating on purpose-driven or community-based projects
