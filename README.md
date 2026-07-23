@@ -40,11 +40,4 @@
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="25"/>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=mwovi&count_private=true&show_icons=true&theme=buefy" alt="mwovi" width="420"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwovi&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="mwovi" height="165" />
-</p>
